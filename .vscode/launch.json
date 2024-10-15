@@ -1,0 +1,126 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "BlackjackTerminal",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.blackjack.BlackjackTerminal",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "SwingTest",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.blackjack.SwingTest",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "BlackjackMain",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.blackjack.BlackjackMain",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Blackjack",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.blackjack.Blackjack",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "SpaceInvaders",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.spaceinvader.SpaceInvaders",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Game",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.spaceinvader.Game",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.src.games.Main",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "src.mca20.javafile.Main",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Play",
+      "request": "launch",
+      "mainClass": "Play",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "play",
+      "request": "launch",
+      "mainClass": "play",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "name": "C#: <project-name> Debug",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/<relative-path-to-project-folder><project-name>.csproj"
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "TESTER",
+      "request": "launch",
+      "mainClass": "TESTER",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "MCA20_d8aa6183"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Student/Desktop/MCA20",
+      "program": "c:/Users/Student/Desktop/MCA20/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

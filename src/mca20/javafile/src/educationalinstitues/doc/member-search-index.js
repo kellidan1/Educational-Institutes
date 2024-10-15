@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"src.mca20.javafile.src","c":"ArtsScienceCollege","l":"ArtsScienceCollege(String, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String)"},{"p":"src.mca20.javafile.src","c":"ArtsScienceCollege","l":"displayInfo()"}];updateSearchResults();
